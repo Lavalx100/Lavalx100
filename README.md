@@ -32,10 +32,14 @@ I'm an HKU Computer Science student in Hong Kong who builds across **mobile apps
 
 **Merged**
 
+- [Hesai LiDAR SDK #74](https://github.com/HesaiTechnology/HesaiLidar_SDK_2.0/pull/74) — skip firetime loading when the path is empty.
 - [Hesai LiDAR SDK #75](https://github.com/HesaiTechnology/HesaiLidar_SDK_2.0/pull/75) — avoid redefining the system `BOTHER` baud-rate flag.
+- [Millennium Dawn #6051](https://github.com/MillenniumDawn/Millennium-Dawn/pull/6051) — allow Thailand recovery options to incur debt.
+- [Millennium Dawn #6043](https://github.com/MillenniumDawn/Millennium-Dawn/pull/6043) — fix Vojvodina's EU candidacy after internal enlargement.
 
 **Open pull requests**
 
+- [Millennium Dawn #6072](https://github.com/MillenniumDawn/Millennium-Dawn/pull/6072) — add civilian-factory construction for Battery Parks.
 - [LeRobot #4882](https://github.com/huggingface/lerobot/pull/4882) — derive video timestamps from frame indices.
 - [LeRobot #5005](https://github.com/huggingface/lerobot/pull/5005) — load native RealSense JSON presets. Physical-camera preset application has not been tested.
 - [Hesai ROS 2 #120](https://github.com/HesaiTechnology/HesaiLidar_ROS_2.0/pull/120) — publish the JT128 confidence byte in point clouds.
