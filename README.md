@@ -10,23 +10,15 @@ I'm an HKU Computer Science student in Hong Kong who builds across **mobile apps
 
 **📱 Mobile development**
 
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-<img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=apple&logoColor=white" alt="SwiftUI" />
-<img src="https://img.shields.io/badge/iOS%20%2F%20iPadOS-111111?style=for-the-badge&logo=apple&logoColor=white" alt="iOS and iPadOS" />
+<p><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" /> <img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=apple&logoColor=white" alt="SwiftUI" /> <img src="https://img.shields.io/badge/iOS%20%2F%20iPadOS-111111?style=for-the-badge&logo=apple&logoColor=white" alt="iOS and iPadOS" /></p>
 
 **🎮 Game development**
 
-<img src="https://img.shields.io/badge/Unity-222C37?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C sharp" />
+<p><img src="https://img.shields.io/badge/Unity-222C37?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" /> <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C sharp" /></p>
 
 **🤖 Robotics and computer vision**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/MuJoCo-263238?style=for-the-badge&logoColor=white" alt="MuJoCo" />
-<img src="https://img.shields.io/badge/LeRobot-7C3AED?style=for-the-badge&logoColor=white" alt="LeRobot" />
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" /> <img src="https://img.shields.io/badge/MuJoCo-263238?style=for-the-badge&logoColor=white" alt="MuJoCo" /> <img src="https://img.shields.io/badge/LeRobot-7C3AED?style=for-the-badge&logoColor=white" alt="LeRobot" /></p>
 
 ## 🚀 Selected projects
 
