@@ -42,7 +42,6 @@ I'm an HKU Computer Science student in Hong Kong who builds across **mobile apps
 
 - [LeRobot #4882](https://github.com/huggingface/lerobot/pull/4882) — derive video timestamps from frame indices.
 - [LeRobot #5005](https://github.com/huggingface/lerobot/pull/5005) — load native RealSense JSON presets. Physical-camera preset application has not been tested.
-- [Hesai ROS 2 #120](https://github.com/HesaiTechnology/HesaiLidar_ROS_2.0/pull/120) — publish the JT128 confidence byte in point clouds.
 - [Galbot MCAP → LeRobot #2](https://github.com/GalaxyGeneralRobotics/galbot-mcap2lerobot/pull/2) and [#3](https://github.com/GalaxyGeneralRobotics/galbot-mcap2lerobot/pull/3) — faster timestamp matching and fail-safe batch conversion.
 
 ## 📊 GitHub stats
