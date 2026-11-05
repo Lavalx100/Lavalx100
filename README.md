@@ -52,7 +52,7 @@ I'm an HKU Computer Science student in Hong Kong who builds across **mobile apps
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Lavalx100&theme=tokyonight&hide_border=true" alt="GitHub contribution streaks for Jad Khiami" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Lavalx100&theme=tokyonight&hide_border=true" alt="GitHub contribution streaks for Jad Khiami" />
 </div>
 
 <sub>The language card summarizes code volume in eligible public repositories; it excludes forked repositories and is not a measure of skill. The cards are served by third-party services and may be cached or temporarily unavailable.</sub>
