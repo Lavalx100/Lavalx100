@@ -47,7 +47,7 @@ I'm an HKU Computer Science student in Hong Kong who builds across **mobile apps
 ## 📊 GitHub stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Lavalx100&include_all_commits=true&theme=tokyonight" alt="GitHub totals for Jad Khiami" height="190" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Lavalx100&show_icons=true&include_all_commits=true&theme=dark_github" alt="GitHub totals for Jad Khiami" height="190" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lavalx100&layout=compact&theme=tokyonight&langs_count=6" alt="Most used languages in public, non-fork repositories" height="190" />
 </div>
 
